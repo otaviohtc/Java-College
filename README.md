@@ -1,2 +1,2 @@
-# Java-College
-Java activities from college
+# java-college
+Java exercises and projects from college coursework.
